@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kulinarika</string>
+    <string name="hello_world">Najboljši recepti</string>
+    <string name="action_settings">Nastavitve</string>
+    <string name="title_activity_recipe_details">Recept</string>
+    <string name="title_section1">Sestavine</string>
+    <string name="title_section2">Postopek</string>
+    <string name="search_title">Išči</string>
+    <string name="search_hint">Iskalni niz</string>
+    <string name="title_activity_search">Iskanje</string>
+
+</resources>
